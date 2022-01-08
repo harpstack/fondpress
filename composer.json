@@ -19,7 +19,11 @@
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
         "ext-pdo": "*",
-        "slim/slim": "^4.9"
+        "slim/slim": "^4.9",
+        "slim/psr7": "^1.5",
+        "slim/php-view": "^3.1",
+        "slim/twig-view": "^3.3",
+        "php-di/php-di": "^6.3"
     },
     "config": {
         "process-timeout": 0,
