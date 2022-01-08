@@ -1,0 +1,23 @@
+{
+    "name": "harpstack/fondpress",
+    "description": "A Slim-based content management system",
+    "keywords": [
+        "fondpress",
+        "slim",
+        "cms",
+        "php"
+    ],
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harper Zhang",
+            "email": "harper.zhang@hotmail.com"
+        }
+    ],
+    "require": {},
+    "config": {
+        "process-timeout": 0,
+        "sort-packages": false
+    }
+}
