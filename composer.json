@@ -38,5 +38,15 @@
     "config": {
         "process-timeout": 0,
         "sort-packages": false
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
     }
 }
