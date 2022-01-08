@@ -15,7 +15,12 @@
             "email": "harper.zhang@hotmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "slim/slim": "^4.9"
+    },
     "config": {
         "process-timeout": 0,
         "sort-packages": false
